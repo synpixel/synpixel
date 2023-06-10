@@ -8,7 +8,9 @@
 - Rust (but i'm still learning!!)
 
 # my favorite quote
+
 > Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+
 - Martin Fowler
 
 ---
