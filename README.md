@@ -15,4 +15,5 @@
 
 ---
 
-[![synpixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=synpixel&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![synpixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=synpixel&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![synpixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=synpixel&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
