@@ -16,3 +16,5 @@
 ---
 
 ![Zero to Production in Rust](https://rustacean.net/more-crabby-things/gothferris.png)
+
+[![synpixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=synpixel)](https://github.com/anuraghazra/github-readme-stats)
